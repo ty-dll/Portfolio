@@ -77,4 +77,4 @@ The build output in `dist/` is a plain static site, so any static host will work
 ## Contact
 
 **Aditya Garimella**, Software Engineer · Hamamatsu, Japan (open to relocating to Tokyo)
-📧 [g.aditya2307@gmail.com](mailto:g.aditya2307@gmail.com)
+📧 [g.aditya2307@gmail.com](mailto:g.aditya2307@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aditya-garimella-809289208/) · [GitHub](https://github.com/ty-dll)

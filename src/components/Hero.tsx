@@ -65,7 +65,7 @@ export default function Hero() {
           </a>
           <a
             href={profile.resume}
-            download
+            download="Aditya_Garimella_Resume.pdf"
             className="inline-flex items-center gap-2 rounded-xl border border-line bg-panel/60 px-6 py-3.5 font-semibold text-white backdrop-blur transition hover:border-muted"
           >
             <Icon name="download" className="size-4" />

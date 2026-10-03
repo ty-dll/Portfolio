@@ -4,8 +4,8 @@ export const profile = {
   location: "Hamamatsu, Japan",
   relocation: "Open to relocation to Tokyo",
   email: "g.aditya2307@gmail.com",
-  github: "https://github.com/",
-  linkedin: "https://www.linkedin.com/",
+  github: "https://github.com/ty-dll",
+  linkedin: "https://www.linkedin.com/in/aditya-garimella-809289208/",
   resume: "/resume.pdf",
   roles: ["React interfaces", "Electron apps", "TypeScript monorepos", "AI-powered tools"],
   summary:
